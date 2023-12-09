@@ -17,7 +17,7 @@ if(niveau == "1"):
 elif(niveau == "2"):
      nbr_essai = 5
 elif(niveau == "3"):
-     nbr_essai == 3
+     nbr_essai = 3
 else:
      print("Choix Invalide. Le niveau Beginner est choisi par défaut")
      nbr_essai = 10
